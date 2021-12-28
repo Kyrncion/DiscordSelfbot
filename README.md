@@ -1,4 +1,4 @@
-# A Discord Self Bot ( WOP )
+# Multifunctional Discord Selfbot ( WOP )
 This selfbot is for educational purposes only, you **can** and *will* get banned for using a self bot. By using my bot **you acknowledge** that *I, Jack Levreau*, am not responsible for any account loss nor damage done by using this bot. This project was inspired by [Xware Selfbot](https://www.youtube.com/watch?v=dGYq6krDsa8).
 
 ## Installation
