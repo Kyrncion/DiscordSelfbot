@@ -1,0 +1,23 @@
+{
+  "name": "discord-selfbot",
+  "version": "1.0.0",
+  "description": "For educational purposes only, you can and will get banned for using a self bot. By using my bot you acknowledge that I, Jack Levreau, am not responsible for any account loss nor damage done by using this bot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyrncion/discord-selfbot.git"
+  },
+  "author": "Kyrncion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kyrncion/discord-selfbot/issues"
+  },
+  "homepage": "https://github.com/Kyrncion/discord-selfbot#readme",
+  "dependencies": {
+    "discord.js": "^13.4.0",
+    "dotenv": "^10.0.0"
+  }
+}
