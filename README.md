@@ -16,7 +16,7 @@ To use the bot first you need to add your client token to the config file. Once 
 ## License
 This script is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
 
-## Source Code
+## Primary Script
 
 ```JavaScript 
 const Discord = require("discord.js");
